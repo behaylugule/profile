@@ -29,6 +29,7 @@ const Hero = () => {
               </a>
               <a
                 href="mailto:behaylugule@gmail.com"
+                target='_blank'
                 className="inline-flex items-center px-4 sm:px-6 py-2 sm:py-3 border border-transparent text-sm sm:text-base font-medium rounded-md text-blue-600 bg-blue-100 hover:bg-blue-200 transition-colors duration-300"
               >
                 Contact Me
@@ -44,7 +45,7 @@ const Hero = () => {
           <div className="md:w-1/2 flex justify-center animate-fade-in-delay-4">
             <div className="relative w-48 h-48 sm:w-56 sm:h-56 md:w-64 md:h-64 rounded-full overflow-hidden shadow-xl hover:shadow-2xl transition-shadow duration-300">
               <Image
-                src="/profile.jpg"
+                src="/photo.jpg"
                 alt="Behaylu Gule Gebrekidan"
                 fill
                 className="object-cover hover:scale-105 transition-transform duration-300"

@@ -27,17 +27,7 @@ const Education = () => {
             <p className="text-gray-600 dark:text-gray-300">
               <span className="font-semibold">Thesis:</span> Queue Management System (project)
             </p>
-            <div className="mt-6 space-y-2">
-              <p className="text-gray-600 dark:text-gray-300">
-                <span className="font-semibold">National Classification:</span> EQF Level 6
-              </p>
-              <p className="text-gray-600 dark:text-gray-300">
-                <span className="font-semibold">Type of Credits:</span> ECTS
-              </p>
-              <p className="text-gray-600 dark:text-gray-300">
-                <span className="font-semibold">Number of Credits:</span> 300
-              </p>
-            </div>
+           
             <div className="mt-6">
               <a
                 href="http://www.aastu.edu.et/"

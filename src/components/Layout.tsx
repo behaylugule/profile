@@ -69,6 +69,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
               </a>
               <a
                 href="mailto:behaylugule@gmail.com"
+                target="_blank"
                 className="hover:text-gray-300 transition-colors duration-200"
               >
                 Email

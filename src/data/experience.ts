@@ -24,7 +24,7 @@ export const experiences: Experience[] = [
       'Collaborating with cross-functional teams',
       'Writing clean, maintainable, and efficient code'
     ],
-    technologies: ['Java', 'Spring Boot', 'React', 'TypeScript', 'PostgreSQL']
+    technologies: ['Python', 'Django', 'React/Next.js', 'TypeScript', 'PostgreSQL']
   },
   {
     id: 'inspure',
@@ -39,7 +39,7 @@ export const experiences: Experience[] = [
       'Integrated third-party APIs',
       'Optimized application performance'
     ],
-    technologies: ['React', 'Node.js', 'MongoDB', 'Express', 'TypeScript']
+    technologies: ['Java', 'Spring Boot','React', 'Node.js', 'MongoDB', 'Express', 'TypeScript','PostgreSQL']
   },
   {
     id: 'etech',
