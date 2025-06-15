@@ -7,7 +7,7 @@ import { useTheme } from '@/context/ThemeContext';
 export default function MobileDrawer() {
   const [isOpen, setIsOpen] = useState(false);
   const [mounted, setMounted] = useState(false);
-  const { isDarkMode } = useTheme();
+
 
   useEffect(() => {
     setMounted(true);
